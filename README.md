@@ -2,7 +2,9 @@
 
 <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" height="200">
 
-I'm a passionate and creative Full-Stack Developer, UI/UX Designer, and Motion Graphics Designer from the Philippines! 🇵🇭 I love to build visually appealing and user-friendly web applications, mobile apps, and games. I'm a lifelong learner, always ready to take on new challenges and keep up with the ever-changing world of technology!
+I'm a passionate and creative Full-Stack Developer, UI/UX Designer, and Motion Graphics Designer from the Philippines! 🇵🇭
+
+I love to build visually appealing and user-friendly web applications, mobile apps, and games. I'm a lifelong learner, always ready to take on new challenges and keep up with the ever-changing world of technology!
 
 ## 🚀 Quick Facts about me:
 
