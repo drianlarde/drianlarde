@@ -62,7 +62,7 @@ I'm a passionate and creative Full-Stack Developer, UI/UX Designer, and Motion G
 
 I enjoy creating digital art, playing video games, and exploring the great outdoors in my free time!
 
-![Your Name's GitHub stats]([https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=drianlarde&show_icons=true&theme=tokyonight)
+![Drianlarde's GitHub stats](https://github-readme-stats.vercel.app/api?username=drianlarde&show_icons=true&theme=tokyonight)
 
 <!--
 **drianlarde/drianlarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
