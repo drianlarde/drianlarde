@@ -1,6 +1,6 @@
 # Hi there! I'm Adrian 👋
 
-<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" height="200">
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" height="100">
 
 I'm a passionate and creative Full-Stack Developer, UI/UX Designer, and Motion Graphics Designer from the Philippines! 🇵🇭
 
