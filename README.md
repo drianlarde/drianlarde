@@ -1,4 +1,4 @@
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm Adrian 👋
 
 <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" height="200">
 
@@ -31,7 +31,7 @@ I'm a passionate and creative Full-Stack Developer, UI/UX Designer, and Motion G
 
 ## 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0057!style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drianlarde/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drianlarde/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/drianlarde_alt)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/eydiwowers/)
 
