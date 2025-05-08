@@ -31,8 +31,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/drianlarde_alt)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/eydiwowers/)
 
-Here is your updated text with everything in **all lowercase**:
-
 ## my projects & experience:
 
 * plm social amelioration program system - full-stack developer & web application
