@@ -1,19 +1,13 @@
-# Hi there! I'm Adrian 👋
+# hi there! i'm adrian
 
-<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" height="100">
+## about me
+- 'very' creative frontend developer (vibe coder)
+- ai/software engineer at fanatics
+- currently doing golang and elixir
+- i play billiards (1v1 me)
+- lmk, we can fork vscode and make millions
 
-I'm a passionate and creative Full-Stack Developer, UI/UX Designer, and Motion Graphics Designer from the Philippines! 🇵🇭
-
-I love to build visually appealing and user-friendly web applications, mobile apps, and games. I'm a lifelong learner, always ready to take on new challenges and keep up with the ever-changing world of technology!
-
-## 🚀 Quick Facts about me:
-
-- 💻 I'm a Bachelor of Science in Computer Science student at **Pamantasan ng Lungsod ng Maynila**.
-- 🎨 I love to create stunning UI/UX designs using **Figma**.
-- 📱 I have experience in mobile app development with **Flutter**.
-- 🕹️ I'm into game development using **Unity** and **C#**.
-
-## 💻 Tech Stack:
+## tech Stack:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -31,52 +25,35 @@ I love to build visually appealing and user-friendly web applications, mobile ap
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 🔗 Connect with me:
+## connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drianlarde/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/drianlarde_alt)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/eydiwowers/)
 
-## 📚 My Projects & Experience:
+Here is your updated text with everything in **all lowercase**:
 
-- PLM Social Amelioration Program System - Full-stack Developer & Web Application
-- PLM Mobile Application - UI/UX Designer & Junior Flutter Developer
-- PLM Student Health Declaration - Front-end Developer
-- Ang Pamantasan - Front-end Developer
-- MoonDAO - Open-Source DAO Worker
-- Matrix Co. - UI/UX Designer, Front-end Developer & Motion Graphics Designer
-- Upwork Freelance - Data Scraper/Web Scraper Freelancer
-- UMAK 11th IT Olympics Competition - Game Development Participant
-- JujuProdGames - 3D Environment Artist & Unity C# Developer
+## my projects & experience:
 
-## 🏆 Certifications & Relevant Seminars/Webinars:
+* plm social amelioration program system - full-stack developer & web application
+* plm mobile application - ui/ux designer & junior flutter developer
+* plm student health declaration - front-end developer
+* ang pamantasan - front-end developer
+* moondao - open-source dao worker
+* matrix co. - ui/ux designer, front-end developer & motion graphics designer
+* upwork freelance - data scraper/web scraper freelancer
+* umak 11th it olympics competition - game development participant
+* jujuprodgames - 3d environment artist & unity c# developer
 
-- Diliman Solutions Challenge 2023 (1st Place) - University of Philippines - Diliman
-- Pillars of OOP - University of the Philippines Los Banos - ACSS
-- Playground - DSC Loyola - Ateneo de Manila University
-- Introduction to ChatGPT - DataCamp
-- UI/UX using Google Design - DICT Mindanao Cluster 1
-- Turn-based Card Game Unity C# (Speaker) – GDSC - PLM
-- Tech Everywhere – DSC Loyola
-- Microsoft Innovative Educator - PLM - Microsoft
+## certifications & relevant seminars/webinars:
 
-## 🌟 Fun Fact:
-
-I enjoy creating digital art, playing video games, and exploring the great outdoors in my free time!
+* diliman solutions challenge 2023 (1st place) - university of philippines - diliman
+* pillars of oop - university of the philippines los banos - acss
+* playground - dsc loyola - ateneo de manila university
+* introduction to chatgpt - datacamp
+* ui/ux using google design - dict mindanao cluster 1
+* turn-based card game unity c# (speaker) – gdsc - plm
+* tech everywhere – dsc loyola
+* microsoft innovative educator - plm - microsoft
 
 ![Drianlarde's GitHub stats](https://github-readme-stats.vercel.app/api?username=drianlarde&show_icons=true&theme=tokyonight)
-
-<!--
-**drianlarde/drianlarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
